@@ -4,7 +4,11 @@
 - :computer: I am interested in Machine Learning and Theoretical Computer Science
 - 👯 I’m looking to collaborate on Computer Vision Related Projects
 - 🔭 I’m currently working on RNN's
+<br />
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=kartiksrinivas007)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kartiksrinivas007)](https://github.com/kartiksrinivas007/github-readme-stats)
 
 <!--
 **kartiksrinivas007/kartiksrinivas007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
