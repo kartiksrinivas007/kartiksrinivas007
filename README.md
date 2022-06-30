@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- :school: I'm currently a CSE Sophomore at IIT Hyderabad 
+- :computer: I am interested in Machine Learning adn Theoretical Computer Science
+- 👯 I’m looking to collaborate on Computer Vision Related Projects
+- 🔭 I’m currently working on RNN's
+
+
 <!--
 **kartiksrinivas007/kartiksrinivas007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
