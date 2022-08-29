@@ -5,10 +5,6 @@
 - 👯 I’m looking to collaborate on Computer Vision Related Projects
 <br />
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=kartiksrinivas007)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kartiksrinivas007&layout=compact)](https://github.com/kartiksrinivas007/github-readme-stats)
-
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
