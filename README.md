@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- :school: I'm currently a Third year undergraduate CSE Student at IIT Hyderabad 
+- :school: I'm currently a Research assistant at UBC and a third year undergraduate CSE Student at IIT Hyderabad 
 - :computer: I am interested in Machine Learning and Theoretical Computer Science
 - 👯 I’m looking to collaborate on Computer Vision Related Projects
 <br />
