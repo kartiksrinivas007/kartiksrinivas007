@@ -2,7 +2,7 @@
 
 - :school: I'm currently a Research assistant at UBC and a third year undergraduate CSE Student at IIT Hyderabad 
 - :computer: I am interested in Machine Learning and Theoretical Computer Science
-- 👯 I’m looking to collaborate on Computer Vision Related Projects
+- Reach me at es20btech11015@iith.ac.in
 <br />
 
 
