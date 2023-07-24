@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - :school: I'm currently a Research assistant at UBC and a third year undergraduate CSE Student at IIT Hyderabad 
-- :computer: I am interested in Machine Learning and Theoretical Computer Science
+- :computer: My research areas include Domain Generalization, Adaptation and Federated Learning
 - Reach me at es20btech11015@iith.ac.in
 <br />
 
