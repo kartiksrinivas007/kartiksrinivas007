@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-- :school: I'm currently a Research assistant at UBC and a third year undergraduate CSE Student at IIT Hyderabad 
+- :school: I'm currently a Research assistant at UBC and a final year undergraduate CSE Student at IIT Hyderabad 
 - :computer: My research areas include Domain Generalization, Adaptation and Federated Learning
 - Reach me at es20btech11015@iith.ac.in or arkartik@student.ubc.ca
 <br />
 
-
+<!--
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -29,7 +29,7 @@
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)
-
+-->
 <!--
 **kartiksrinivas007/kartiksrinivas007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
