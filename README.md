@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - :school: I'm currently a Research assistant at UBC and a final year undergraduate CSE Student at IIT Hyderabad 
-- :computer: My research areas include Domain Generalization, Adaptation and Federated Learning
+- :computer: My research interest is broadly Theoretical Machine Learning, presently I am studying Optimization.
 - Reach me at es20btech11015@iith.ac.in or arkartik@student.ubc.ca
 <br />
 
