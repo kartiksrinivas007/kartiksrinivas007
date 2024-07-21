@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- :school: I'm currently a Research assistant at UBC and a final year undergraduate CSE Student at IIT Hyderabad 
+- :school: I am a Master's student in the Machine Learning Department, Carnegie Mellon University
 - :computer: My research interest is broadly Theoretical Machine Learning, presently I am studying Optimization.
-- Reach me at es20btech11015@iith.ac.in or arkartik@student.ubc.ca
+- Reach me at kartiksr [at] cs.cmu.edu
 <br />
 
 <!--
