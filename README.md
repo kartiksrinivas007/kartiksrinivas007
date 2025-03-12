@@ -1,7 +1,7 @@
 Hi, 
 
 I'm Kartik.
-I'm a grad student at [CMU](https://www.cs.cmu.edu/), interested in mathematics and computer science .
+I'm a grad student at [CMU](https://www.cs.cmu.edu/), interested in mathematics and computer systems .
 
 I've worked at the intersection of the two through my projects on deep learning ([1](https://github.com/kartiksrinivas007/DESA-ICML24), [2](https://github.com/kartiksrinivas007/DeepGenerativeLatents)) machine learning systems ([3](https://github.com/kartiksrinivas007/AutoGradLanguage)) and theoretical computer science ([4](https://github.com/kartiksrinivas007/VisualCryptography.git))
 
