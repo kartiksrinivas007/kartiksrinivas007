@@ -1,4 +1,4 @@
 Hi, 
 
 I'm Kartik.
-I'm a grad student at [CMU](https://www.cs.cmu.edu/), interested in mathematics and computer systems.
+I'm a computer programmer & grad student at [CMU SCS](https://www.cs.cmu.edu/). I am interested in topics that have tangible impact.
